@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,49:1E88E5,51:E53935,100:B71C1C&height=180&section=header&text=CHALLA%20KISHORE&fontSize=44&fontColor=ffffff" width="100%" alt="Challa Kishore"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,49:90CAF9,51:EF9A9A,100:EF5350&height=200&section=header&text=CHALLA%20KISHORE&fontSize=44&fontColor=ffffff&stroke=0D47A1&strokeWidth=1&fontAlignY=38&desc=Defensive%20%28SOC%29%20%7C%20Offensive%20%28VAPT%29&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Challa Kishore"/>
 
 <h3 align="center">🔵 Defensive (SOC) · 🔴 Offensive (VAPT) · 🛡️ Cybersecurity Analyst (Fresher)</h3>
 
