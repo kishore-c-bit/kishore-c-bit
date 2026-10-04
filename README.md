@@ -108,7 +108,7 @@
 </details>
 
 <details>
-<summary><b>🔐 ShieldAES - Strengthening AES Encryption Against Differential Power Analysis (DPA)</b> · <a href="https://github.com/kishore-c-bit/ShieldAES">GitHub</a></summary>
+<summary><b>🔐 ShieldAES - Strengthening AES Encryption Against Differential Power Analysis (DPA)</b> · <a href="https://github.com/kishore-c-bit/SHEILD_AES">GitHub</a></summary>
 
 `Python` `NumPy` `Pandas` `Matplotlib` `PyCryptodome` `AES-128` `Side-Channel Analysis`
 
