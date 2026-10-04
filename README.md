@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" alt="Challa Kishore - Defensive SOC and Offensive VAPT"/>
+<img src="https://raw.githubusercontent.com/kishore-c-bit/kishore-c-bit/main/banner.svg" width="100%" alt="Challa Kishore - Defensive SOC and Offensive VAPT"/>
 
 <h3 align="center">🔵 Defensive (SOC) · 🔴 Offensive (VAPT) · 🛡️ Cybersecurity Analyst (Fresher)</h3>
 
@@ -139,4 +139,4 @@
 [![Email](https://img.shields.io/badge/kishorec8713@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kishorec8713@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Challa_Kishore-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/challa-kishore-126419329/)
 
-<img src="./footer.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/kishore-c-bit/kishore-c-bit/main/footer.svg" width="100%" alt=""/>
