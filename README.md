@@ -1,6 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:1E88E5&height=180&section=header&text=CHALLA%20KISHORE&fontSize=44&fontColor=ffffff" width="100%" alt="Challa Kishore"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,49:1E88E5,51:E53935,100:B71C1C&height=180&section=header&text=CHALLA%20KISHORE&fontSize=44&fontColor=ffffff" width="100%" alt="Challa Kishore"/>
 
-<h3 align="center">🛡️ Cybersecurity Analyst (Fresher) · SOC · VAPT · Web Application Security</h3>
+<h3 align="center">🔵 Defensive (SOC) · 🔴 Offensive (VAPT) · 🛡️ Cybersecurity Analyst (Fresher)</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BLUE_TEAM-Wazuh_SIEM_·_SOC-1565C0?style=for-the-badge" alt="Blue Team"/>
+  <img src="https://img.shields.io/badge/RED_TEAM-OWASP_ZAP_·_VAPT-C62828?style=for-the-badge" alt="Red Team"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1E88E5&center=true&vCenter=true&width=650&lines=Monitoring+systems+with+Wazuh+SIEM;Testing+web+apps+with+OWASP+ZAP;Triaging+alerts+and+investigating+incidents;Open+to+SOC+and+VAPT+roles" alt="Typing SVG"/>
@@ -134,4 +139,4 @@
 [![Email](https://img.shields.io/badge/kishorec8713@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kishorec8713@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Challa_Kishore-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/challa-kishore-126419329/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:1E88E5&height=60&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,49:1E88E5,51:E53935,100:B71C1C&height=60&section=footer" width="100%" alt=""/>
