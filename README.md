@@ -34,6 +34,7 @@
 - 🖥️ Built a **Wazuh mini SOC**: monitoring, alert triage, incident investigation and Active Response
 - 🧪 Ran **OWASP ZAP** vulnerability assessments mapped to the OWASP Top 10, with a CI/CD scanning pipeline
 - 🏅 TryHackMe certified in **Pre Security** and **Cyber Security 101**
+- 🔬 Built **ShieldAES**, a side-channel (DPA) attack and defense simulation framework for AES-128
 - 🐍 Python and web development background (Django, React.js) that helps me automate security tasks
 - 🎓 B.Tech in Computer Science Engineering (AI & ML), Kalasalingam Academy of Research and Education, *2022 - 2026*
 - 📍 Chittoor, Andhra Pradesh, India
@@ -60,10 +61,14 @@
 ![Web App Testing](https://img.shields.io/badge/Web_App_Testing-B71C1C?style=for-the-badge)
 ![Fuzzing](https://img.shields.io/badge/Fuzzing-B71C1C?style=for-the-badge)
 ![CIS Checks](https://img.shields.io/badge/CIS_Configuration_Checks-B71C1C?style=for-the-badge)
+![Side-Channel Analysis](https://img.shields.io/badge/Side--Channel_Analysis_(DPA)-B71C1C?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography_(AES)-B71C1C?style=for-the-badge)
 
 **🟢 Automation & Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -99,6 +104,19 @@
 - Added ZAP baseline scans to a GitHub Actions pipeline that fails the build on high-risk alerts and publishes HTML reports
 - Wrote Python scripts using the ZAP REST API to summarize alerts by severity and category
 - Fixed flaws in a sample app and rescanned to show a before and after improvement
+
+</details>
+
+<details>
+<summary><b>🔐 ShieldAES - Strengthening AES Encryption Against Differential Power Analysis (DPA)</b> · <a href="https://github.com/kishore-c-bit/ShieldAES">GitHub</a></summary>
+
+`Python` `NumPy` `Pandas` `Matplotlib` `PyCryptodome` `AES-128` `Side-Channel Analysis`
+
+- Developed a Python-based framework to simulate AES-128 encryption and realistic power traces for side-channel security analysis
+- Implemented Differential Power Analysis (DPA) using the Difference-of-Means technique to recover AES secret key bytes from simulated power traces
+- Simulated AES operations including AddRoundKey, SubBytes, ShiftRows and MixColumns with realistic power leakage, clock variations and Gaussian noise models
+- Designed and implemented masking and noise injection techniques to improve AES resistance against side-channel attacks
+- Built a modular framework using Python, NumPy, Pandas, Matplotlib and PyCryptodome for power trace generation, visualization and attack evaluation
 
 </details>
 
